@@ -1,2 +1,8 @@
 ps1-3 collaborators: abdih
 I brainstormed how to create the preprocessing algorithm with abdih. 
+
+ps1-4 collaborators: abdih
+Once I came up with my algorithm and he had his we compared and confirmed that our efficiencies were both at O(n).
+
+ps2-1 collaborators: abdih
+Bounced my ideas off of him of using multiple Gayle-Shapley algorithms. He helped me refine the idea.
