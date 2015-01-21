@@ -6,3 +6,12 @@ Once I came up with my algorithm and he had his we compared and confirmed that o
 
 ps2-1 collaborators: abdih
 Bounced my ideas off of him of using multiple Gayle-Shapley algorithms. He helped me refine the idea.
+
+ps2-2 collaborators: abdih
+Discussed definition of Omega
+
+ps2-3 collaborators: Did this one on my own
+
+ps3-1 collaborators: Thought up of algorithm with abdih
+
+ps3-2 collaborators: Discussed with abdih

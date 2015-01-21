@@ -13,14 +13,15 @@ def pre(yes, ew):
 
 	for i in range(len(YES)):
 		YESready[YES[i]-1] = YESready[YES[i]-1] + 1
-
 	for i in range(len(EW)):
 		EWready[EW[i]-1] = EWready[EW[i]-1] + 1
+
+	
 
 
 	return YESready, EWready
 
-def post(YESready, EWready):
+def post(YESready, EWready, a, b):
 	return TRUE
 
 def main():
